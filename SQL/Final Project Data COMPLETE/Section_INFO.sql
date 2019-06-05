@@ -1,0 +1,10 @@
+insert into Section_INFO (Section_num, Employeeid, Classroomid, Start_date, End_date, Start_time, End_time) values (8, 5, 1, '2017-08-28', '2017-06-25', '9:39 AM', '5:45 AM');
+insert into Section_INFO (Section_num, Employeeid, Classroomid, Start_date, End_date, Start_time, End_time) values (24, 14, 13, '2018-01-08', '2017-09-14', '12:20 PM', '10:50 PM');
+insert into Section_INFO (Section_num, Employeeid, Classroomid, Start_date, End_date, Start_time, End_time) values (17, 9, 4, '2017-12-08', '2018-05-13', '2:52 AM', '11:01 PM');
+insert into Section_INFO (Section_num, Employeeid, Classroomid, Start_date, End_date, Start_time, End_time) values (4, 5, 9, '2017-08-31', '2018-06-09', '10:53 PM', '6:07 AM');
+insert into Section_INFO (Section_num, Employeeid, Classroomid, Start_date, End_date, Start_time, End_time) values (28, 11, 16, '2018-05-25', '2017-08-22', '9:08 PM', '2:48 PM');
+insert into Section_INFO (Section_num, Employeeid, Classroomid, Start_date, End_date, Start_time, End_time) values (27, 13, 8, '2017-09-28', '2017-07-06', '3:23 AM', '5:49 AM');
+insert into Section_INFO (Section_num, Employeeid, Classroomid, Start_date, End_date, Start_time, End_time) values (15, 4, 14, '2017-09-17', '2017-09-05', '8:52 PM', '5:24 PM');
+insert into Section_INFO (Section_num, Employeeid, Classroomid, Start_date, End_date, Start_time, End_time) values (23, 16, 1, '2017-10-20', '2018-03-03', '8:25 AM', '12:20 AM');
+insert into Section_INFO (Section_num, Employeeid, Classroomid, Start_date, End_date, Start_time, End_time) values (13, 1, 11, '2018-05-09', '2017-06-21', '12:49 AM', '4:01 PM');
+insert into Section_INFO (Section_num, Employeeid, Classroomid, Start_date, End_date, Start_time, End_time) values (14, 10, 15, '2017-08-24', '2017-09-25', '12:07 PM', '9:00 AM');

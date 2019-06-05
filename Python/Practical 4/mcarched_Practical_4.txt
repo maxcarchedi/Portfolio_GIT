@@ -1,0 +1,17 @@
+CREATE TABLE Contestants (
+ContestantID int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+Name varchar(25) NOT NULL,
+Description varchar(200),
+Image varchar(200) NOT NULL);
+
+CREATE TABLE Votes (
+VoteID int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+Voter varchar(100) NOT NULL,
+Contestant int(11) DEFAULT 1);
+
+INSERT INTO Contestants (Name, Description) VALUES ("Big Red II", "Super computer at IU, just super isn't it");
+INSERT INTO Contestants (Name, Description) VALUES ("Scyther", "Pokemen with a reasonably apt name");
+INSERT INTO Contestants (Name, Description) VALUES ("A Rock With Googly Eyes", "In the era of Boaty McBoatface, this might just be the mascot of our times");
+INSERT INTO Contestants (Name, Description) VALUES ("The Rock With Googly Eyes", "Surprisingly strong alternate contender");
+
+SELECT c.Name, COUNT(v.Contestant) FROM Contestants as c, Votes as v WHERE c.ContestantID=v.Contestant;

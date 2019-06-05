@@ -1,0 +1,16 @@
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (768, 84, 5);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (970, 139, 1);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (714, 131, 2);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (438, 86, 3);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (153, 106, 2);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (157, 41, 4);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (522, 131, 4);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (526, 112, 5);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (887, 65, 6);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (686, 145, 2);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (177, 130, 3);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (311, 27, 6);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (524, 74, 2);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (157, 22, 3);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (324, 32, 3);
+insert into Classroom (RoomNumber, Capacity, Buildingid) values (240, 144, 1);
